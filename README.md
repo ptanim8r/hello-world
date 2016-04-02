@@ -1,2 +1,3 @@
 # hello-world
 tests; seeing what this is and if it's useful to projects
+thinking this is a little basic...and I'm hungry so not really focusing...
